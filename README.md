@@ -23,6 +23,7 @@ To overcome the latter limitations, I also make extensive use of another free re
 
 Anaconda-navigator is supplied by Continiuum Dynamics Inc and can be downloaded from [here](https://anaconda.org/anaconda/anaconda-navigator)
 
+### Pycharm
 PyCharm can be downloaded from [here](https://www.jetbrains.com/pycharm/?fromMenu). Note that I have found the community free version perfectly ok for my needs
 
 ## Training / Self Learning
