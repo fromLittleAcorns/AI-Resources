@@ -100,7 +100,8 @@ Specifics that are worth mentioning include:
 - There are many very good online talks by leaders in the field.  Some of the best are:
 	- [Yann LeCunn - Shannon Lecture](https://www.youtube.com/watch?v=zaoL0LUctK4&t=8s)
 this provides a very good history and view of where AI is going and some of the most important developments including GAN
-	- To be added
+	- Jason Yosinski - a very powerful video of how a convolutional neural network learns and how the different layers work.  It is also possible to access a toolbox that can be installed locally.  The video is [here](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+	- More to be added
 
 - The link [here](https://github.com/terryum/awesome-deep-learning-papers) contains references to many of the leading papers in fields including object recognition, NLP, speech, re-enforcement learning etc.
 
