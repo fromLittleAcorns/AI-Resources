@@ -7,11 +7,20 @@ While I intend to keep this resource list as up to date as possible, if anybody 
 
 ## The Environment
 
+### Hardware
+
+Before covering the software environment it is also necessary to cover the computational hardware / facilities needed.  For most of the training course exercises that can be found below I found a reasonably modern Intel i5 or i7 desktop or laptop is adequate.  It helps if it has a GPU but not any GPU, pretty much all of the software frameworks are designed to work with Nvidia GPUs and a software library from Nvidia called CUDA.
+
+As you move from small training course cases to real world examples then you are certainly going to need some more powerful kit, at which point you need to either invest in a workstation with lots of RAM, dosk (ideally solid state), and the most powerful GPU you can affort.  The other alternative which does not require capital investment is to setup a virtual machine on Amason Web Services. There are several links on the web that explain how to do this and I will add one shortly once I have established the easiest to follow.  If you need something more urgently then follow one of the early items covered in the fast.ai training course below is how to setup an AWS instance.
 Whilst there are many machine learning and AI frameworks out there it seems to me that the centre of mass is in the Python open source community. There are resources based around R, mainly used by people that have come from a data science background, and there are resources based around Matlab and its open source equivalent Octave.  My recommendation would be for somebody to start with Python since this seems to be the way it is going and where I see most examples / open-source applications.
+
+
 
 Whichever language you choose to use you will need to setup a local environment and code editor.  I would suggest the following but there are many others to choose from:
 
-### Anaconda-navigator  
+### Software
+
+#### Anaconda-navigator  
 This very useful framework lets you setup a dedicated environment for a particular application, and helps to load all of the required libraries and keep this up to date.  If you wish to use different frameworks (see section further down) you will find that each framework seems to need different versions of libraries and hence, unless you have a dedicated one for each, it is very difficult to get them all to work properly.  Anaconda navigator makes this easy to manage. It also provides ready and easy access to other resources that are useful, and including:
 - Jupyter Notebooks.
 - iPython Console.  An interactive Python console that supports inline figures syntax highlighting etc.  It is often useful to use a notebook and a console with the same session.
@@ -23,7 +32,7 @@ To overcome the latter limitations, I also make extensive use of another free re
 
 Anaconda-navigator is supplied by Continiuum Dynamics Inc and can be downloaded from [here](https://anaconda.org/anaconda/anaconda-navigator)
 
-### Pycharm
+#### Pycharm
 PyCharm can be downloaded from [here](https://www.jetbrains.com/pycharm/?fromMenu). Note that I have found the community free version perfectly meets my needs so far.
 
 ## Training / Self Learning
