@@ -107,6 +107,8 @@ this provides a very good history and view of where AI is going and some of the 
 
 - This link from Robbie Allen contains links to many good tutorials that I have used many times.  The site is [here](https://github.com/terryum/awesome-deep-learning-papers)
 
+ - a very good tutorial on data pre-processing techniques has been produced by Guido Zuidhof.  It is especailly valuable since it covers 3D images using DICOM files, as are used for medical scans etc.  The link is [here](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+
 
 
 
