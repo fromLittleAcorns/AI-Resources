@@ -39,7 +39,7 @@ PyCharm can be downloaded from [here](https://www.jetbrains.com/pycharm/?fromMen
 
 In terms of training I would suggest the following:
 - fast.ai.  The courses can be found from the home page [here](http://www.fast.ai/)
-This is Python based and free.   It gets good reviews and is a very practical approach although they do suggest and almost require you to use an AWS instance which will cost you a few $ in fees.
+This is Python based and free.   I have done most of the course and find it very good in especially in terms of how to actually use machine learning and deep learning.  The course is now based around PyTorch, which suits me since I find this a very good package.  In the latest release there is now a fastai library that makes using and applyting best practice with PyTorch much easier - sort of a Keras for PyTorch.  The course is also very up to date and deals with state of the art things such as GANs 
 
 - Coursera: Machine Learning by Andrew Ng and Stanford University.  This is the course I (and many others) started with and can be found here [here](https://www.coursera.org/learn/machine-learning). The only issue with this course is that it is based around Octave (a shareware version of Matlab), and learning this is a bit of a waste of time when you want to move to Python eventually.  The course is free until you want a certificate, for which there is a small fee
 
